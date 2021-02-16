@@ -1,2 +1,2 @@
 # masters
-A collection of assignments, projects, and courseworks done during my masters program.
+A collection of completed & 'in progress' works in Machine Learning
