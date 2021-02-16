@@ -1,1 +1,0 @@
-Rename the folder as "Lab 1" before running catkin_make
